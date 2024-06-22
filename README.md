@@ -1,5 +1,6 @@
 # 🏕️ Survival Analysis
 This project was developed to improve skills in Survival Analysis. 
+
 This project is divided into:
 1. Data Treatment of [base downloaded from Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 2. Survival Regression
